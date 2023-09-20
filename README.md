@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on improving my skills as a Full Stack Dev
+- 🔭 I’m currently working on improving my skills as a Full Stack Developer 
 - 🌱 I’m currently learning React and diving deeper in to python
 - 👯 I’m looking to collaborate on unique projects or anything your passionate about 
 - 🤔 I’m looking for help with game development 
